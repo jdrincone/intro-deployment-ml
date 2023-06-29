@@ -1,0 +1,8 @@
+[core]
+    remote = proyects
+['remote "proyects"']
+    url = s3://proyects
+['remote "dataset-track"']
+    url = s3://proyects/dataset
+['remote "model-track"']
+    url = s3://proyects/model
